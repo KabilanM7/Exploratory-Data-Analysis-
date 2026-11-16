@@ -12,7 +12,6 @@ Repository contents
 | `Task5_Titanic_EDA.ipynb` | Fully executed Jupyter notebook (code + outputs + observations) |
 | `Task5_EDA_Report.pdf` | PDF report of findings |
 | `titanic.csv` | Dataset (891 rows × 15 columns, from seaborn-data) |
-| `images/` | All 12 saved visualisations |
 | `build_nb.py`, `make_pdf.py` | Scripts used to generate the notebook and the report |
 
 What I did
